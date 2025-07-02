@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+transformers
+torch
+scikit-learn
+requests
+beautifulsoup4
+matplotlib
+pandas
